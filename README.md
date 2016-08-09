@@ -1,9 +1,12 @@
 console.fog
-
 ============
 
 `console.fog` is a simple way to light up your web apps.
 Runs on vanilla JavaScript, in most modern browsers.
+
+### Usage
+
+Just include the `console.fog.js` file into your app!
 
 ### Preview
 
@@ -33,6 +36,3 @@ console.fog('I am a leaf in the wind.');
 Holy turd. If this doesn't make you wanna poop your pants from the thrill of web
 development, I honestly don't know what will.
 
-### Usage
-
-Just include the `console.fog.js` file into your app!
