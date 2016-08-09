@@ -1,0 +1,21 @@
+{
+  "name": "console-dot-fog",
+  "version": "1.0.0",
+  "description": "Console.log with some fog",
+  "main": "console.fog.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lit/console-dot-fog.git"
+  },
+  "keywords": [
+    "fog",
+    "console".
+    "log"
+  ],
+  "author": "Cassidy Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lit/console-dot-fog/issues"
+  },
+  "homepage": "https://github.com/lit/console-dot-fog#readme"
+}
